@@ -1,16 +1,36 @@
 {
   "files": {
-    "main.css": "/itsme/static/css/main.d80c68c8.css",
-    "main.js": "/itsme/static/js/main.67b97d0e.js",
-    "static/js/787.4ce41009.chunk.js": "/itsme/static/js/787.4ce41009.chunk.js",
-    "static/media/logo.svg": "/itsme/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/itsme/static/css/main.6f9c4d57.chunk.css",
+    "main.js": "/itsme/static/js/main.8c4a2618.chunk.js",
+    "main.js.map": "/itsme/static/js/main.8c4a2618.chunk.js.map",
+    "runtime-main.js": "/itsme/static/js/runtime-main.502b31a7.js",
+    "runtime-main.js.map": "/itsme/static/js/runtime-main.502b31a7.js.map",
+    "static/css/2.e7f3f9d7.chunk.css": "/itsme/static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.54957dcf.chunk.js": "/itsme/static/js/2.54957dcf.chunk.js",
+    "static/js/2.54957dcf.chunk.js.map": "/itsme/static/js/2.54957dcf.chunk.js.map",
+    "static/js/3.f0e5a195.chunk.js": "/itsme/static/js/3.f0e5a195.chunk.js",
+    "static/js/3.f0e5a195.chunk.js.map": "/itsme/static/js/3.f0e5a195.chunk.js.map",
     "index.html": "/itsme/index.html",
-    "main.d80c68c8.css.map": "/itsme/static/css/main.d80c68c8.css.map",
-    "main.67b97d0e.js.map": "/itsme/static/js/main.67b97d0e.js.map",
-    "787.4ce41009.chunk.js.map": "/itsme/static/js/787.4ce41009.chunk.js.map"
+    "static/css/2.e7f3f9d7.chunk.css.map": "/itsme/static/css/2.e7f3f9d7.chunk.css.map",
+    "static/css/main.6f9c4d57.chunk.css.map": "/itsme/static/css/main.6f9c4d57.chunk.css.map",
+    "static/js/2.54957dcf.chunk.js.LICENSE.txt": "/itsme/static/js/2.54957dcf.chunk.js.LICENSE.txt",
+    "static/media/Soumyajit-Behera.394b6e42.pdf": "/itsme/static/media/Soumyajit-Behera.394b6e42.pdf",
+    "static/media/about.aee0f771.png": "/itsme/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/itsme/static/media/avatar.7f806e40.svg",
+    "static/media/blog.52102140.png": "/itsme/static/media/blog.52102140.png",
+    "static/media/chatify.9373edda.png": "/itsme/static/media/chatify.9373edda.png",
+    "static/media/codeEditor.ba945879.png": "/itsme/static/media/codeEditor.ba945879.png",
+    "static/media/emotion.e92e314a.jpeg": "/itsme/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/itsme/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.359935c3.svg": "/itsme/static/media/home-main.359935c3.svg",
+    "static/media/leaf.4c15d6eb.png": "/itsme/static/media/leaf.4c15d6eb.png",
+    "static/media/suicide.b72f1f9f.png": "/itsme/static/media/suicide.b72f1f9f.png"
   },
   "entrypoints": [
-    "static/css/main.d80c68c8.css",
-    "static/js/main.67b97d0e.js"
+    "static/js/runtime-main.502b31a7.js",
+    "static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.54957dcf.chunk.js",
+    "static/css/main.6f9c4d57.chunk.css",
+    "static/js/main.8c4a2618.chunk.js"
   ]
 }
